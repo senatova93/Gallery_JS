@@ -1,2 +1,2 @@
-# Gallery_JS
-Small gallery + JS
+# proj2
+proj2
